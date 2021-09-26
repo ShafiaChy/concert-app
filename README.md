@@ -1,7 +1,7 @@
 # Rock On React APP
 
 
-This project was bootstrapped with [Rock On](https://epic-elion-a7f545.netlify.app/).
+My project link: [Rock On](https://epic-elion-a7f545.netlify.app/).
 
 ## About my project
 <ol>
