@@ -1,0 +1,26 @@
+/* designing the cart(singer selected) */
+.total-cost-div{
+    border-radius: 5px;
+    box-shadow: 10px 10px 8px 10px #888888;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.466); 
+    margin-left:10px;
+    
+}
+
+.total-cost-div h2{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration:underline ;
+    font-family: fantasy;
+}
+
+.total-cost-div h3{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.name-added{
+    color: rgb(199, 3, 3);
+    text-shadow:1px 1px black;
+}

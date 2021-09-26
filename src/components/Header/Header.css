@@ -1,0 +1,37 @@
+/* header section container */
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    /* padding-left: 300px; */
+}
+
+/* header title div */
+.title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow:2px 2px black;
+    font-size: 25px;
+    padding-left: 50px;
+    width: 50%;
+     
+}
+
+/* header banner div */
+.image-div{
+    width:50%;
+
+}
+
+/* banner image */
+.image-size-one{
+    margin-left: 80px;
+    width: 75%;
+    border-radius: 10px;
+}
+
+/* color for the budget amount on the header section */
+.budget{
+    color: rgb(199, 3, 3);
+}

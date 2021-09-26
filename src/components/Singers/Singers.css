@@ -1,0 +1,59 @@
+/* designing the singer div */
+.singer-container{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    background-color: black;
+    width: 75%;
+    padding: 30px 10px;
+    
+
+}
+
+/* singer image div */
+.image-div{
+    padding: 20px 30px;
+  
+
+}
+
+/* singer image size */
+.image-size{
+    width: 130%;
+    height: 200px;
+    border-radius: 800px;
+    border: 2px solid white;
+    
+    
+}
+/* singer details div */
+.singer-details{
+    margin-left: 15px;
+    color: seashell;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/* singer details heading */
+h5{
+   margin: 10px;
+}
+
+h6{
+    margin-left: 7px;
+}
+
+/* designing the button */
+.btn-select{
+    margin-left: 7px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: cornsilk;
+    background-color: rgb(199, 3, 3);
+    border: none;
+    font-weight: 400px;
+    cursor: pointer;
+ 
+}
+
